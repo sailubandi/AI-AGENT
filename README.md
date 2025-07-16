@@ -1,6 +1,3 @@
-Here's the content in proper `README.md` format without output, focusing on how the system is built:
-
----
 
 ````markdown
 # 🤖 Smart Study Planner AI using CrewAI + Gemini Flash
